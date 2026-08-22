@@ -1,0 +1,6 @@
+{
+  "name": "SG-SST Matriz IPVR",
+  "description": "Sistema de Gestión de Seguridad y Salud en el Trabajo para Identificación de Peligros, Valoración de Riesgos y Seguimiento según metodología GTC 45 y normativa colombiana.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
